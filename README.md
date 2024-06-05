@@ -31,9 +31,9 @@
   </li>
   <li>Compare each character of the original input string with the corresponding character in the reversed array:
     <ul>
-      <li>If any character does not match, return <code>false<code> (indicating that the string is not a palindrome).</li>
+      <li>If any character does not match, return <code>false</code> (indicating that the string is not a palindrome).</li>
     </ul>
   </li>
-  <li>If all characters match, return <code>true<code> (indicating that the string is a palindrome).</li>
+  <li>If all characters match, return <code>true</code> (indicating that the string is a palindrome).</li>
 </ol>
 
