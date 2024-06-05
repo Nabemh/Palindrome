@@ -21,7 +21,7 @@
 
 <h2>Algorithm</h2>
 <ol>
-  <li>Take the input string as input.</li>
+  <li>Take the string as input.</li>
   <li>Convert the input string into a character array by breaking it character for character.</li>
   <li>Create an empty character array of the same length as the input string.</li>
   <li>Loop through each character of the input string:
@@ -31,9 +31,9 @@
   </li>
   <li>Compare each character of the original input string with the corresponding character in the reversed array:
     <ul>
-      <li>If any character does not match, return false (indicating that the string is not a palindrome).</li>
+      <li>If any character does not match, return <code>false<code> (indicating that the string is not a palindrome).</li>
     </ul>
   </li>
-  <li>If all characters match, return true (indicating that the string is a palindrome).</li>
+  <li>If all characters match, return <code>true<code> (indicating that the string is a palindrome).</li>
 </ol>
 
